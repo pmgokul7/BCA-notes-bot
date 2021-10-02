@@ -1,0 +1,17 @@
+
+
+   exports.se_mod_two_part_one="BQACAgUAAxkBAAIFHGFR_UR6WqkL7hTGmske9uwr1tFRAAKsAwAC1h6QVhnAZ6BfFb2wIQQ"
+   exports.se_mod_two_part_two="BQACAgUAAxkBAAIFHWFR_YwOMR0m7LirHrw1_FNVbtCBAAKtAwAC1h6QVtb9phsuDSXVIQQ"
+  exports.se_mod_two_part_three="BQACAgUAAxkBAAIFHmFR_bhJ9RMQ7_zW03EBWmHJOjVgAAKuAwAC1h6QVrTxnCOpEwunIQQ"
+  exports.se_mod_two_part_four="BQACAgUAAxkBAAIFH2FR_b9xiCbxNPs7_A1VYzhwk2y8AAKvAwAC1h6QVvXn90KPB7xHIQQ"
+   //
+
+
+   exports.co_mod_two_part_one="BQACAgUAAxkBAAIGUWFSm5UIciu1trxEs1VBmQz30twIAAJQAwAC-TyIVYpx0q3224MnIQQ"
+   exports.co_mod_two_part_two="BQACAgUAAxkBAAIGUmFSm6s4yYbskZzXgt1YzhiWJbf5AAJRAwAC-TyIVbOMkmXztnXpIQQ"
+   //
+
+   exports.mathsmain_mod_two_pone="BQACAgUAAxkBAAIGqmFTOykgcIFt7rwUJgUmXp_BHrH7AALvAwACuRCZVu6SlYIYa-CuIQQ"
+  exports.mathsmain_mod_two_ptwo="BQACAgUAAxkBAAIG0GFTPomyZKfRlwjf9387XeeYo0HPAAL1AwACEtWZVl8Vz2qzpcpOIQQ"
+  exports.mathsmain_mod_two_pthree="BQACAgUAAxkBAAIG3GFTP8NqJhc_AXdIAzhVBsOeNk3hAAL2AwACEtWZVtN4ip4LMQ2BIQQ"
+  exports.mathsmain_mod_two_pfour="BQACAgUAAxkBAAIG32FTQOhjwTrqpAV4GK3qT8hjtqQtAAL3AwACEtWZVuXau9fWZirqIQQ"
